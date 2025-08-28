@@ -173,5 +173,5 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 tvg-name="HTSpor" tvg-language="Turkish" tvg-country="TR" tvg-id="htspor" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" group-title="Diğerleri", HTSpor
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 
-#EXTINF:-1 tvg-name="Show TV" tvg-id="showtv" tvg-logo="https://mo.ciner.com.tr/video/2023/06/15/ver1726038663/8E1C90B3C04F89681637C4909149450C_640x360.jpg" group-title="Diğerleri",Show TV
+#EXTINF:-1 tvg-name="Show TV" tvg-language="Turkish" tvg-country="TR" tvg-id="showtv" tvg-logo="https://mo.ciner.com.tr/video/2023/06/15/ver1726038663/8E1C90B3C04F89681637C4909149450C_640x360.jpg" group-title="Diğerleri",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
