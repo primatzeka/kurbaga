@@ -3,6 +3,7 @@
 #EXTVLCOPT:http-referrer=https://huhu.to/
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 https://huhu.to/play/300113394/index.m3u8
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/kI_tE2WPpn5BXRV_m2C9XrsuzqLB0OAUdYvDSjWznbposMmhN5oueRShXQ0YWZxfgxyr0J-DFunL_7vKy5RFe6MzYJuEpecMaeA7Pv5U724lBymoTTuQVA3yiAKWnRUBhoH3LSr0zo-FoPBD15Rvn2vvtK3zTzvRJm-r4NLI0tMHCwTYD2zJBtM7pDn8CirEo_lHK4dLYnB9y24xO96yzQ/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png" group-title="BeINSports",BeIN Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -10,9 +11,9 @@ https://huhu.to/play/300113394/index.m3u8
 https://wvo.zirvedesin202.cfd/b2/mono.m3u8
 
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 3" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png" group-title="BeINSports",BeIN Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://monotv531.com/
-https://wvo.zirvedesin202.cfd/yayinb3.m3u8
+#EXTVLCOPT:http-referrer=https://huhu.to/
+#EXTVLCOPT:http-user-agent=HUHU/1.0
+http://huhu.to/play/635700596/index.m3u8
 
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 4" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/cww8drm.png" group-title="BeINSports",BeIN Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
