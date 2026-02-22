@@ -2,17 +2,42 @@
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png" group-title="BeINSports",BeIN Sport 1
 https://zeustv32321.info/b1local/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 1 Yedek" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png" group-title="BeINSports",BeIN Sport 1 Yedek
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://justintv.co/
+https://andro.326503.xyz/checklist/receptestt.m3u8
+
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png" group-title="BeINSports",BeIN Sport 2
 https://zeustv32321.info/b2local/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 2 Yedek" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png" group-title="BeINSports",BeIN Sport 2 Yedek
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://justintv.co/
+https://andro.326503.xyz/checklist/androstreamlivebs2.m3u8
 
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 3" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png" group-title="BeINSports",BeIN Sport 3
 https://zeustv32321.info/b3local/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 3 Yedek" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png" group-title="BeINSports",BeIN Sport 3 Yedek
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://justintv.co/
+https://andro.326503.xyz/checklist/androstreamlivebs3.m3u8
+
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 4" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/cww8drm.png" group-title="BeINSports",BeIN Sport 4
 https://zeustv32321.info/b4local/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 4 Yedek" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/cww8drm.png" group-title="BeINSports",BeIN Sport 4 Yedek
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://justintv.co/
+https://andro.326503.xyz/checklist/androstreamlivebs4.m3u8
+
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 5" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/63gjk4y.png" group-title="BeINSports",BeIN Sport 5
 https://zeustv32321.info/b5local/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport 5 Yedek" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/63gjk4y.png" group-title="BeINSports",BeIN Sport 5 Yedek
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://justintv.co/
+https://andro.326503.xyz/checklist/androstreamlivebs5.m3u8
 
 #EXTINF:-1 tvg-id="bein_sport" tvg-name="BeIN Sport MAX 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="BeINSports",BeIN Sport MAX 1
 https://zeustv32321.info/live/b1max/chunks.m3u8
